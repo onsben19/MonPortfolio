@@ -104,7 +104,7 @@ SocialLink.propTypes = {
 const TYPING_SPEED = 100;
 const ERASING_SPEED = 50;
 const PAUSE_DURATION = 2000;
-const WORDS = ["Software Engineering student", "Tech Enthusiast"];
+const WORDS = [" Junior Software Engineering ", "Tech Enthusiast"];
 const TECH_STACK = ["Angular", "Java", "Node.html", "SQL","..."];
 const SOCIAL_LINKS = [
   { icon: Github, link: "https://github.com/onsben19" },
@@ -209,7 +209,7 @@ const Home = () => {
                 <p className="text-base md:text-lg text-gray-400 max-w-xl leading-relaxed font-light"
                   data-aos="fade-up"
                   data-aos-delay="1000">
-                 "Transforming Ideas into Interactive Digital Experiences"
+                 &quot;Transforming Ideas into Interactive Digital Experiences&quot;
                 </p>
 
                 {/* Tech Stack */}

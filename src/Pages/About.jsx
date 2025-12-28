@@ -231,8 +231,7 @@ const AboutPage = () => {
               data-aos="fade-right"
               data-aos-duration="1500"
             >
-I am in my final year of Software Engineering studies at ESPRIT, Tunis. Driven by a passion for developing innovative solutions, I particularly enjoy challenges that help me grow as a developer. I excel in collaborative environments, am eager to learn new skills, and remain dedicated to delivering work with significant impact.            </p>
-
+Junior Software Engineer specialized in full-stack development and high-performance digital solutions. Expertise in building robust applications with a focus on clean code and scalable architecture. Experienced in managing the entire software development lifecycle, from requirements engineering to Cloud deployment. Driven by a commitment to technical excellence and continuous learning, I aim to contribute to ambitious digital transformation projects by delivering reliable and innovative software</p>
                {/* Quote Section */}
       <div 
         className="relative bg-gradient-to-br from-[#3b82f6]/5 via-transparent to-[#1d4ed8]/5 border border-gradient-to-r border-[#3b82f6]/30 rounded-2xl p-4 my-6 backdrop-blur-md shadow-2xl overflow-hidden"
